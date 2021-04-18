@@ -1,4 +1,4 @@
-# Microsoft Film Studio: Data Anyalysis & Strategy Recommendations
+# Microsoft Film Studio: Data Analysis & Strategy Recommendations
 ### Author: Alexis Kedo
 ## Overview
 This project analyzes selected characteristics of movies produced from 2010 onward, in order to provide a set of recommendations to guide the actions of a corporation, Microsoft, in its goal to open a movie production studio. The data comes from the Internet Movie Database (IMDB), The Numbers, Box Office Mojo, The Movie Database, and Rotten Tomatoes, courtesy of Flatiron School. Descriptive analysis of film release and earnings data shows that a film's popularity varies seasonally and that Microsoft should limit its production efforts to a few genres in order to maximize profitability. Furthermore, a sampling and analysis of most popular actors shows that Microsoft should concentrate their hiring on a select pool of actors who are relatively likely to maximize return on investment.
