@@ -16,7 +16,7 @@ This project uses descriptive analysis, including description of trends over tim
 
 ![Screen Shot 2021-04-18 at 4 34 43 PM](https://user-images.githubusercontent.com/77643869/115170903-5f031a00-a087-11eb-9726-ad8ce8b7f95b.png)
 
-Movies with peak average popularity are released during the peak "cluster" months of June, July, August, and September, though there is also above-average popularity during the months of February and December. 
+Movies with peak average popularity are released during the peak "cluster" months of June, July, November, and December, though there is also above-average popularity during the months of February and September. 
 
 ![Screen Shot 2021-04-18 at 8 56 11 PM](https://user-images.githubusercontent.com/77643869/115171380-873f4880-a088-11eb-80b1-57f7075b0f86.png)
 
