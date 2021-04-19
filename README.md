@@ -13,16 +13,41 @@ The three main decision-making areas addressed by this project were release mont
 ## Methods
 This project uses descriptive analysis, including description of trends over time, aggregating data across categories, and sampling. These methods allows us to gain insight into some potential opportunities for a start-up studio to gain a foothold in a competitive industry. 
 ## Results
+
 ![Screen Shot 2021-04-18 at 4 34 43 PM](https://user-images.githubusercontent.com/77643869/115170903-5f031a00-a087-11eb-9726-ad8ce8b7f95b.png)
+
 Movies with peak average popularity are released during the peak "cluster" months of June, July, August, and September, though there is also above-average popularity during the months of February and December. 
+
 ![Screen Shot 2021-04-18 at 8 56 11 PM](https://user-images.githubusercontent.com/77643869/115171380-873f4880-a088-11eb-80b1-57f7075b0f86.png)
+
 Somewhat predictably, Sci-Fi, Adventure, and Animation are some of the most profitable genres, yet it is widely known these are some of the the most expensive competitive categories. However, there are opportunities for Microsoft in other categories that yield above-average profitability, such as Family and Musical movies. 
 
+![actors](https://user-images.githubusercontent.com/77643869/115172800-9d9ad380-a08b-11eb-9dda-5d0488b8c40b.png)
 
+As displayed in the above plot, there are indeed several prominent, "big name" celebrities--also highly rated--that Microsoft, if name recognition is a priority, could opt to hire. Leonardo DiCaprio is the most highly-rated actor in the Top 30 with a performance rating of 5.20 and Robert Downey, Jr. at 3.75. However, there are also actors whom are perhaps not as high-profile, but nevertheless whom rated fairly highly in our model. For example, the actress Idina Menzel was rated a 3.88 on our performance scale (almost as high as Leo, and higher than Robert Downey, Jr.), while having a cost rating of 16, versus DiCaprio's and Downey's ratings of 300+. Lucy Davis' performances were rated as near-comparable at 3.66, and her cost rating of 3 is even more budget-friendly. Daniel Kuluuya's performances were rated higher than both Vin Diesel and Scarlett Johansson, while maintaining one of the lowest cost ratings at 1 (by comparison, Scarlett Johannson and Vin Diesel's cost ratings were both over 100).
+## Conclusions 
+This analysis leads to three recommendations for Microsoft executives: 
+* **Consider timing releases for off-peak months that still show signs of above-average audience turnout,** such as the months of February and September. This will help Microsoft circumvent some of the competition from other studios during the "cluster" months, while also providing opportunities for their products to enjoy above-average popularity. 
+* **If startup funding is a significant pain point, consider lower-budget movie genres such as family and musical films,** which tend to earn above-average worldwide gross earnings and are generally known to be cheaper to produce. 
+* **Look beyond big-name actors** and engage in recruiting from a pool of lesser-known talent that have the potential to appeal to both mainstream audiences and film critics. 
+## Next Steps
+The above models utilized the most wide-ranging film-related datasets publicly available, and the results would most likely generalize beyond the data used in this particular dataset. 
 
+These models are reliable because they  reflect widely-accepted trends in the film industry (e.g., films released during the holidays are more popular; adventure films are higher-grossing than documentaries; Leonardo DiCaprio is a highly-rated actor). 
+
+However, these models are also useful for Microsoft because they also uncover windows of opportunity for executives to maximize profit and/or minimize cost--for example, releasing movies in the promising month of February, or hiring lower-profile but high-potential actors. 
+
+As stated in each of the three analysis sections, further analysis could provide opportunities for:
+1. More insight into seasonal release trends and their potential impacts on films' popularity;
+2. Deeper understanding of the start-up costs and competitition related to each film genre;
+3. A wider pool of high-potential actors for Microsoft producers to consider. 
+## For More Information 
+See the full analysis in the [Jupyter Notebook](./Microsoft_Data_Analysis.ipynb) or review this [presentation] (./Microsoft_Data_Analysis_Presentation.pdf). 
 ## Repository Structure
+
+```
 ├── data
-├── images
-├── README.md
-├── Animal_Shelter_Needs_Presentation.pdf
-└── animal_shelter_needs_analysis.ipynb
+├── Microsoft_Data_Analysis_Presentation.pdf
+├── Microsoft_Data_Analysis.ipynb
+└── README.md
+```
