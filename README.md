@@ -22,9 +22,10 @@ Movies with peak average popularity are released during the peak "cluster" month
 
 Somewhat predictably, Sci-Fi, Adventure, and Animation are some of the most profitable genres, yet it is widely known these are some of the the most expensive competitive categories. However, there are opportunities for Microsoft in other categories that yield above-average profitability, such as Family and Musical movies. 
 
-![genres](https://user-images.githubusercontent.com/77643869/115327858-4b25e980-a155-11eb-8743-164275ada0a5.png)
+![actors](https://user-images.githubusercontent.com/77643869/115327930-6d1f6c00-a155-11eb-87e0-536e54930971.gif)
 
 As displayed in the above plot, there are indeed several prominent, "big name" celebrities--also highly rated--that Microsoft, if name recognition is a priority, could opt to hire. Leonardo DiCaprio is the most highly-rated actor in the Top 30 with a performance rating of 5.20 and Robert Downey, Jr. at 3.75. However, there are also actors whom are perhaps not as high-profile, but nevertheless whom rated fairly highly in our model. For example, the actress Idina Menzel was rated a 3.88 on our performance scale (almost as high as Leo, and higher than Robert Downey, Jr.), while having a cost rating of 16, versus DiCaprio's and Downey's ratings of 300+. Lucy Davis' performances were rated as near-comparable at 3.66, and her cost rating of 3 is even more budget-friendly. Daniel Kuluuya's performances were rated higher than both Vin Diesel and Scarlett Johansson, while maintaining one of the lowest cost ratings at 1 (by comparison, Scarlett Johannson and Vin Diesel's cost ratings were both over 100).
+
 ## Conclusions 
 This analysis leads to three recommendations for Microsoft executives: 
 * **Consider timing releases for off-peak months that still show signs of above-average audience turnout,** such as the months of February and September. This will help Microsoft circumvent some of the competition from other studios during the "cluster" months, while also providing opportunities for their products to enjoy above-average popularity. 
