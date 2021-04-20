@@ -42,7 +42,8 @@ As stated in each of the three analysis sections, further analysis could provide
 2. Deeper understanding of the start-up costs and competitition related to each film genre;
 3. A wider pool of high-potential actors for Microsoft producers to consider. 
 ## For More Information 
-See the full analysis in the [Jupyter Notebook](./Microsoft_Data_Analysis.ipynb) or review this [presentation] (./Microsoft_Data_Analysis_Presentation.pdf). 
+See the full analysis in the [Jupyter Notebook](./Microsoft_Data_Analysis.ipynb) or review this [presentation] (https://github.com/alexiskedo/MicrosoftMovieAnalysis/blob/main/Microsoft_Data_Analysis_Presentation.pdf). 
+
 ## Repository Structure
 
 ```
