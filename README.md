@@ -14,11 +14,11 @@ The three main decision-making areas addressed by this project were release mont
 This project uses descriptive analysis, including description of trends over time, aggregating data across categories, and sampling. These methods allows us to gain insight into some potential opportunities for a start-up studio to gain a foothold in a competitive industry. 
 ## Results
 
-![months](https://user-images.githubusercontent.com/77643869/115327838-406b5480-a155-11eb-8987-ef54ffe8b5af.png)
+![months](https://github.com/alexiskedo/MicrosoftMovieAnalysis/blob/main/images/months.jpeg)
 
 Movies with peak average popularity are released during the peak "cluster" months of June, July, November, and December, though there is also above-average popularity during the months of February and September. 
 
-![genres](https://user-images.githubusercontent.com/77643869/115327848-46f9cc00-a155-11eb-935f-9c9f561742b3.png)
+![genres](https://github.com/alexiskedo/MicrosoftMovieAnalysis/blob/main/images/genres.jpeg)
 
 Somewhat predictably, Sci-Fi, Adventure, and Animation are some of the most profitable genres, yet it is widely known these are some of the the most expensive competitive categories. However, there are opportunities for Microsoft in other categories that yield above-average profitability, such as Family and Musical movies. 
 
